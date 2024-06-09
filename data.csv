@@ -1,4 +1,4 @@
-name,age,city
-John Doe,30,3
-Jane Smith,25,Los Angeles
-4,40,yes
+env,jan,feb
+dev,30,3
+prod,25,40
+
